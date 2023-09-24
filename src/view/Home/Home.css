@@ -1,0 +1,28 @@
+
+
+.searchbar{
+    font-size: 30px;
+    border-radius: 20px;
+    padding: 5px 20px ;
+    margin: 0 auto;
+    display: block;
+    width: 500px;
+    outline: none;
+    border: none;
+    box-shadow:  0 0 15px rgb(42, 43, 43);
+}
+.text-center{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 15px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.contact-conatainer{
+    background-color: rgb(197, 252, 255);
+    min-height: 100vh;
+}
+.imgshocking{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
